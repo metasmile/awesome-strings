@@ -4,5 +4,5 @@
 Opensource l10n resources that extracted from opensource apps or projects. 
 
 ### TODO
-[ ] Add a feature that updates from original repo automatically.
-[ ] Attach a simple finder that shows matched patterns or coverage.
+* [ ] Add a feature that updates from original repo automatically.
+* [ ] Attach a simple finder that shows matched patterns or coverage.
